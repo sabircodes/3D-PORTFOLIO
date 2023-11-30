@@ -22,6 +22,6 @@ Here, you can find all the projects I've been working on. Check them out and let
 
 If you have any questions or just want to say hi, feel free to reach out to me using the cup head guy as your guide.
 
-![image](https://github.com/sabircodes/3D-PORTFOLIO/assets/93681489/c08b1111-becf-46aa-94d0-a2b5f50cea07)
+
 
 
